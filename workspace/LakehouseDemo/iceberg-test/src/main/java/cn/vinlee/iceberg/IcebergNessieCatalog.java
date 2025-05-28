@@ -1,4 +1,3 @@
 package cn.vinlee.iceberg;
 
-public class IcebergNessieCatalog {
-}
+public class IcebergNessieCatalog {}
